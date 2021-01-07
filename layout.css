@@ -20,6 +20,6 @@
 
     }
  }
- .scene.img{
-     max-width: 480px;
+ img {
+     max-width: 100%;
  }
