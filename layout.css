@@ -5,14 +5,18 @@
     font-family: sans-serif;
     scroll-behavior: smooth;
   }
+  /* div{
+      height: 100%;
+      width: 100%;
+  } */
 .container{
     text-align: center;
     justify-content: center;
-
+    
     padding: auto;
     border: 2px solid black;
     border-radius: 5%;
-    background: linear-gradient(to right, #4a1b4e, #925353, #131244);
+    background: linear-gradient(to right,#000000 , #6d0000, #000000);
     
 }
 .row{
