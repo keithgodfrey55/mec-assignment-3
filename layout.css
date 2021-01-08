@@ -8,8 +8,8 @@
 .container{
     text-align: center;
     justify-content: center;
-    margin: 0;
-    padding: 0 auto;
+
+    padding: auto;
     border: 2px solid black;
     border-radius: 5%;
     background: linear-gradient(to right, #4a1b4e, #925353, #131244);
@@ -23,8 +23,15 @@
      display: flex;
  }
  h1 {
-     /* display: flex; */
+     color: white;
+     display: flex;
      text-align: center;
      justify-content: center;
      margin: auto;
+ }
+ p{
+     color: white;
+ }
+ h2{
+     color: white;
  }
